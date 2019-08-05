@@ -1,0 +1,2 @@
+# TivaC-Series-Temperature-sensor-with-LEDs
+This lab is designed to further the individual’s understanding of the expansion capabilities of the Digilent Orbit BoosterPack. In its simplest form, this lab is designed to show how to utilize the I2C bus to transmit and receive data from the Digilent Orbit Board’s onboard temperature sensor. It will continue to introduce the individuals with concepts involving UART and communicating through the serial interface PuTty.
